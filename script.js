@@ -1,13 +1,13 @@
 const compliments = [
-  "Du ser nydlig ut idag♡",
+  "Du ser nydelig ut idag♡",
   "Har noen sagt hvor bra person du er? For det er du♡",
-  "Du ser litt søt ut når du prøver skjule at du scanner denne QR koden ♡",
+  "Du ser litt søt ut når du prøver å skjule at du scanner denne QR-koden ♡",
   "Din positivitet er inspirerende♡",
   "Du er flink til å få andre til å føle seg bra♡",
   "Du er unik ♡",
-  "Et hei fra deg kan være nok for og gi en person mer håp♡",
-  "Du er godtnok ♡",
-  "Du stråler idag ♡"
+  "Et hei fra deg kan være nok for å gi en person mer håp♡",
+  "Du er god nok ♡",
+  "Du stråler idag ♡", // Her manglet kommaet
   "M00RTEN på sosiale medier, refresh nettsiden for positivitet♡"
 ];
 
